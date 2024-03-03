@@ -1,8 +1,8 @@
 {
-  "name": "comely-io/data-types",
+  "name": "yyqsg888/comely-io-data-types",
   "description": "PHP data types",
   "type": "library",
-  "homepage": "https://github.com/comely-io/data-types",
+  "homepage": "https://github.com/yyqsg888/comely-io-data-types",
   "license": "MIT",
   "authors": [
     {
@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": ">=7.2",
     "ext-bcmath": "*",
     "ext-mbstring": "*"
   },
